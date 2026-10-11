@@ -1,0 +1,9 @@
+{
+  "name":"Yogi Firnanda Saputra — Portfolio",
+  "short_name":"Yogi Portfolio",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#f5f7fb",
+  "theme_color":"#102a43",
+  "icons":[{"src":"assets/logo-umkt.png","sizes":"512x512","type":"image/png"}]
+}
